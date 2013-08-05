@@ -25,7 +25,13 @@
 <body id="home">
 <div id="templatemo_wrapper">
     <div id="templatemo_top">
-        
+        <div id="templatemo_login">
+            <form action="uder_construction/home.html" method="get">
+                <input type="text" value="username" name="q" size="10" id="username" title="username" class="txt_field" />
+                <input type="password" value="password" name="q" size="10" id="password" title="password" class="txt_field" />
+                <input type="submit" name="Search" value="" alt="Search" id="searchbutton" title="Search" class="sub_btn"  />
+            </form>
+        </div>
     </div> <!-- end of top -->
 
     <div id="templatemo_header">

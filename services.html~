@@ -76,7 +76,6 @@
                 <h2>Service 1</h2>
                 <img src="images/templatemo_image_03.png"  alt="Image 03" />
                 <p>Service overview Service overview Service overview Service overview Service overview Service overview Service overview Service overview Service overview Service overview Service overview Service overview Service overview Service overview Service overview Service overview Service overview Service overview Service overview Service overview Service overview Service overview Service overview Service overview Service overview Service overview Service overview Service overview</p>
-                <a class="more" href="book.html">Book</a>
                 <div class="cleaner"></div>
             </div>
 
@@ -84,7 +83,6 @@
                 <h2>Service 2</h2>
                 <img src="images/templatemo_image_04.png"  alt="Image 04" />
                 <p>Service overview Service overview Service overview Service overview Service overview Service overview Service overview</p>
-                <a class="more" href="book.html">Book</a>
                 <div class="cleaner"></div>
             </div>
 
@@ -92,7 +90,6 @@
                 <h2>Service 3</h2>
                 <img src="images/templatemo_image_05.png"  alt="Image 05" />
                 <p> Service overview Service overview Service overview Service overview Service overview Service overview Service overview</p>
-                <a class="more" href="http://nckpunch.appointy.com">Book</a>
                 <div class="cleaner"></div>
             </div>
         </div> <!-- end of content -->
